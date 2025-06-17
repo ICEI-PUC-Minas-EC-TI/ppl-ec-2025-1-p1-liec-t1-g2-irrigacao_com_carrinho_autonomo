@@ -22,16 +22,7 @@ Felipe Augusto Lara Soares
 Cristiano Neves Rodrigues
 
 ## Resumo
-
-Desenvolver um sistema automatizado para irrigação de plantas usando um carrinho autônomo que possa percorrer um jardim ou plantação, acionando a irrigação conforme a necessidade das plantas.
-
-•Carrinho Autônomo: O carrinho se move de forma autônoma para as diferentes áreas do jardim.
-•Sensores de Umidade: Sensores no carrinho verificam a umidade do solo em diferentes pontos e ativam a irrigação quando necessário.
-•Irrigação Inteligente: O sistema usa um sistema de irrigação por gotejamento ou pulverização.
-•Controle via App: O usuário pode monitorar e controlar o sistema de irrigação via aplicativo móvel.
-•Carregamento Solar: O carrinho pode ser alimentado por painéis solares para maior sustentabilidade.
- 
-
+O presente trabalho apresenta o desenvolvimento de um sistema de irrigação automatizado com carrinho autônomo, que visa promover a sustentabilidade e a eficiência no uso da água em áreas verdes. O projeto integra tecnologias como sensores de umidade, motores de navegação, sistema de irrigação por gotejamento ou pulverização, carregamento solar e um aplicativo de controle remoto. O sistema é capaz de percorrer autonomamente um jardim ou plantação, identificando as áreas que necessitam de irrigação e acionando o sistema de forma inteligente. Além disso, o projeto contempla uma interface digital que permite ao usuário monitorar e ajustar os parâmetros da irrigação de maneira prática e eficiente.
 # Código (do arduino ou esp32)
 
 <li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
