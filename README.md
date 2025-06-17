@@ -11,9 +11,13 @@ Introdução a Computação
 Algorito e Estruturas de Dados
 
 Barbara Urquisa Bambirra Freiras Bernardes
+
 Eduardo Vieira Feltre
+
 Lucas Antonio Faria
+
 Lucas Ricardo Souza
+
 Mariana Almeida Izar
 
 ## Orientador
