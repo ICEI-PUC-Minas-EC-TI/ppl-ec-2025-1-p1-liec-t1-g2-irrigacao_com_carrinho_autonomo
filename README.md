@@ -6,11 +6,10 @@ Engenharia de Computação
 
 1 periodo
 
+
 Laboratório de Introdução a Engenharia de Dados
 
-
 Introdução a Computação
-
 
 Algorito e Estruturas de Dados
 
