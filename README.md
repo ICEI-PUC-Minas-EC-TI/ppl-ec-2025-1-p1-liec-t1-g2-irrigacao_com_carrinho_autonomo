@@ -10,6 +10,8 @@ Laboratório de Introdução a Engenharia de Dados
 Introdução a Computação
 Algorito e Estruturas de Dados
 
+
+
 Barbara Urquisa Bambirra Freiras Bernardes
 
 Eduardo Vieira Feltre
