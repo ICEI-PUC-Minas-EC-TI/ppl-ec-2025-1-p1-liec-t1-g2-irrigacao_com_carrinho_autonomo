@@ -1,35 +1,21 @@
-Sistema de irrigação com carrinho autonomo
+Carrinho de irrigacao autonomo
 
-Unidade lourdes
+Loudes
 
-Engenharia de Computação 
+Engenharia de Computacao
 
-1 periodo
+1 semestre
 
+DISCIPLINA
 
-Laboratório de Introdução a Engenharia de Dados
+Integrantes
 
-Introdução a Computação
+Nome completo do aluno 1
+Nome completo do aluno 2
+Nome completo do aluno 3
+Nome completo do aluno 4
+Nome completo do aluno 5
 
-Algorito e Estruturas de Dados
-
-
-
-Barbara Urquisa Bambirra Freiras Bernardes
-
-Eduardo Vieira Feltre
-
-Lucas Antonio Faria
-
-Lucas Ricardo Souza
-
-Mariana Almeida Izar
-
-## Orientador
-
-Felipe Augusto Lara Soares
-
-Cristiano Neves Rodrigues
 
 ## Resumo
 O presente trabalho apresenta o desenvolvimento de um sistema de irrigação automatizado com carrinho autônomo, que visa promover a sustentabilidade e a eficiência no uso da água em áreas verdes. O projeto integra tecnologias como sensores de umidade, motores de navegação, sistema de irrigação por gotejamento ou pulverização, carregamento solar e um aplicativo de controle remoto. O sistema é capaz de percorrer autonomamente um jardim ou plantação, identificando as áreas que necessitam de irrigação e acionando o sistema de forma inteligente. Além disso, o projeto contempla uma interface digital que permite ao usuário monitorar e ajustar os parâmetros da irrigação de maneira prática e eficiente.
