@@ -1,21 +1,25 @@
-Carrinho de irrigacao autonomo
+# TÍTULO DO PROJETO
 
-Loudes
+`CAMPUS/UNIDADE`
 
-Engenharia de Computacao
+`CURSO`
 
-1 semestre
+`SEMESTRE`
 
-DISCIPLINA
+`DISCIPLINA`
 
-Integrantes
 
-Nome completo do aluno 1
-Nome completo do aluno 2
-Nome completo do aluno 3
-Nome completo do aluno 4
-Nome completo do aluno 5
+## Integrantes
 
+* Nome completo do aluno 1
+* Nome completo do aluno 2
+* Nome completo do aluno 3
+* Nome completo do aluno 4
+* Nome completo do aluno 5
+
+## Orientador
+
+* Nome completo do professor 1
 
 ## Resumo
 O presente trabalho apresenta o desenvolvimento de um sistema de irrigação automatizado com carrinho autônomo, que visa promover a sustentabilidade e a eficiência no uso da água em áreas verdes. O projeto integra tecnologias como sensores de umidade, motores de navegação, sistema de irrigação por gotejamento ou pulverização, carregamento solar e um aplicativo de controle remoto. O sistema é capaz de percorrer autonomamente um jardim ou plantação, identificando as áreas que necessitam de irrigação e acionando o sistema de forma inteligente. Além disso, o projeto contempla uma interface digital que permite ao usuário monitorar e ajustar os parâmetros da irrigação de maneira prática e eficiente.
