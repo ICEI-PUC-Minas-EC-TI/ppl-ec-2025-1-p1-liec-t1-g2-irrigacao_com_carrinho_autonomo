@@ -1,25 +1,28 @@
-# TÍTULO DO PROJETO
+# SISTEMA DE IRRIGAÇÃO COM CARRINHO AUTÔNOMO
 
-`CAMPUS/UNIDADE`
+`UNIDADE LOUDES`
 
-`CURSO`
+`ENGENHARIA DE COMPUTAÇÃO`
 
-`SEMESTRE`
+`PRIMEIRO SEMESTRE`
 
-`DISCIPLINA`
+`LABORATÓRIO DE INTRODUÇÃO A ENGENHARIA DE COMPUTAÇÃO`
+`INTRODUÇÃO A ENGENHARIA DE COMPUTAÇÃO`
+`ALGORITIMO E ESTRUTURA DE DADOS 1`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Bárbara Urquisa Bambirra Freitas Bernardes
+* Eduardo Vieira Feltre
+* Lucas Antonio Silveira Faria
+* Lucas Ricardo Souza
+* Mariana Almeida Izar
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
+* Cristiano Neves Rodrigues
 
 ## Resumo
 O presente trabalho apresenta o desenvolvimento de um sistema de irrigação automatizado com carrinho autônomo, que visa promover a sustentabilidade e a eficiência no uso da água em áreas verdes. O projeto integra tecnologias como sensores de umidade, motores de navegação, sistema de irrigação por gotejamento ou pulverização, carregamento solar e um aplicativo de controle remoto. O sistema é capaz de percorrer autonomamente um jardim ou plantação, identificando as áreas que necessitam de irrigação e acionando o sistema de forma inteligente. Além disso, o projeto contempla uma interface digital que permite ao usuário monitorar e ajustar os parâmetros da irrigação de maneira prática e eficiente.
