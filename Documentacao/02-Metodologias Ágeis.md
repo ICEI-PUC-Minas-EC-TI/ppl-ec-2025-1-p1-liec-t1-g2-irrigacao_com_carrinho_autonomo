@@ -21,22 +21,4 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 ### Ferramentas
 
-As ferramentas utilizadas no projeto foram:
 
- Sensor de Umidade (estação fixa)
- Sensor de Umidade do Solo Capacitivo 
- Arduino Uno
- Módulo Transmissor RF 433MHz (TX)
- Fonte de energia (módulo com pilhas)
- Jumpers + Protoboard (para conexões)
- Chassi 2WD (com 2 motores DC, rodas, roda boba e base acrilica)
- Módulo Motor
- Módulo Receptor RF 433MHz (RX) – para receber o sinal
- Chave liga/desliga
- parafusos
- espaçadores
- Fita dupla face
- Solda
- Rele
- Bomba de agua
- Tubo transparente pcv
